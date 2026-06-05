@@ -1,0 +1,10 @@
+.next
+node_modules
+dist
+coverage
+.env
+.env.local
+data/app.db
+data/app.db-journal
+server.log
+server.err.log
